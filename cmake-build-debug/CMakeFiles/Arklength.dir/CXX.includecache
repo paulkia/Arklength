@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Zechl/Documents/paulkia/Arklength/src/Graph.cpp
+Point.cpp
+C:/Users/Zechl/Documents/paulkia/Arklength/src/Point.cpp
+set
+-
+vector
+-
+string
+-
+iostream
+-
+
+C:/Users/Zechl/Documents/paulkia/Arklength/src/Main.cpp
+Graph.cpp
+C:/Users/Zechl/Documents/paulkia/Arklength/src/Graph.cpp
+iostream
+-
+stdlib.h
+-
+sstream
+-
+
+C:/Users/Zechl/Documents/paulkia/Arklength/src/Point.cpp
+math.h
+-
+
